@@ -9,4 +9,5 @@ and I may still, however right now I've got an itch for full-stack and backend d
 
 Thank you for taking the time to check out this repository and the live link. Here are my socials if you're interested in reaching out to me!
 
-<p align="left"> <a href="https://www.facebook.com/bryan.fines" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/BryanF1nes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bryan-fines-a44384270/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<a href="https://www.linkedin.com/in/bryan-fines-a44384270/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="64" height="64" /></a>
+<a href="https://www.github.com/BryanF1nes" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="64" height="64" /></a>
